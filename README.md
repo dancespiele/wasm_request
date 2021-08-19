@@ -113,4 +113,4 @@ If you like Yew Styles, help me supporting the project:
 - Using this link to create an account in [Binance](https://www.binance.com/en/register?ref=DB8EPXF0) (get 10% fee back for every trading)
 - [Github Sponsors](https://github.com/sponsors/dancespiele)
 
-Wasm Request is [MIT](LICENSE-MIT.md) and [Apache-2.0](LICENSE-APACHE.md) licensed
+Wasm Request is [MIT](LICENSE) licensed
