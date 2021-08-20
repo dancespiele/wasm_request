@@ -115,7 +115,7 @@ extern crate web_sys;
 
 mod error_handler;
 
-use crate::error_handler::RequestError;
+pub use crate::error_handler::RequestError;
 use serde::Serialize;
 use wasm_bindgen::JsCast;
 use wasm_bindgen::JsValue;

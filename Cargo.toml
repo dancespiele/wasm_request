@@ -1,6 +1,6 @@
 [package]
 name = "wasm_request"
-version = "0.1.0"
+version = "0.1.1"
 description = "Create http request with rustwasm saving boilerplate"
 documentation = "https://docs.rs/crate/wasm_request"
 homepage = "https://github.com/dancespiele/wasm_request"
