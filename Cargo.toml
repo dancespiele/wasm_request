@@ -1,9 +1,15 @@
 [package]
 name = "wasm_request"
 version = "0.1.0"
-categories = ["wasm"]
+description = "Create http request with rustwasm saving boilerplate"
+documentation = "https://docs.rs/crate/wasm_request"
+homepage = "https://github.com/dancespiele/wasm_request"
+license = "MIT"
+authors = ["Francisco Jesus Navarro Cortes <spieljs@gmail.com>"]
+categories = ["wasm", "web-programming::http-client", "network-programming", "asynchronous"]
 edition = "2018"
-
+readme = "README.md"
+repository = "https://github.com/dancespiele/wasm_request"
 
 [lib]
 crate-type = ["cdylib", "rlib"]

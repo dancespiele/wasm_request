@@ -105,7 +105,6 @@
 //! let food = get_storage("food").unwrap();
 //! delete_storage("food");
 //! ```
-
 extern crate serde;
 #[macro_use]
 extern crate serde_derive;
